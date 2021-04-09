@@ -1,7 +1,6 @@
 # Steam for Node.js
 
 [![NPM version](https://img.shields.io/npm/v/steam.svg)](https://npmjs.org/package/steam "View this project on NPM")
-[![Dependency Status](https://img.shields.io/david/seishun/node-steam.svg)](https://david-dm.org/seishun/node-steam)
 
 This is a Node.js port of [SteamKit2](https://github.com/SteamRE/SteamKit). It lets you interface with Steam without running an actual Steam client. Could be used to run an autonomous chat/trade bot.
 
